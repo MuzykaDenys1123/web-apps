@@ -1,5 +1,6 @@
 ﻿using Lab4.BLL.DTOs.Comments;
 using Lab4.BLL.Services.Abstractions;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Lab4.API.Controllers;
@@ -7,6 +8,7 @@ namespace Lab4.API.Controllers;
 
 [Route("api/[controller]")]
 [ApiController]
+[Authorize]
 public class CommentController : ControllerBase
 {
     private readonly ICommentService _service;

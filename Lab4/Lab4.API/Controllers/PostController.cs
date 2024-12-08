@@ -1,11 +1,13 @@
 ﻿using Lab4.BLL.DTOs.Posts;
 using Lab4.BLL.Services.Abstractions;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Lab4.API.Controllers;
 
 [Route("api/[controller]")]
 [ApiController]
+[Authorize]
 public class PostController : ControllerBase
 {
     private readonly IPostService _service;
