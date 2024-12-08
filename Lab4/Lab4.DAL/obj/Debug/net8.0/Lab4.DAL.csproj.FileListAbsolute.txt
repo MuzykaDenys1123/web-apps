@@ -1,0 +1,13 @@
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.DAL\bin\Debug\net8.0\Lab4.DAL.deps.json
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.DAL\bin\Debug\net8.0\Lab4.DAL.dll
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.DAL\bin\Debug\net8.0\Lab4.DAL.pdb
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.DAL\obj\Debug\net8.0\Lab4.DAL.csproj.AssemblyReference.cache
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.DAL\obj\Debug\net8.0\Lab4.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.DAL\obj\Debug\net8.0\Lab4.DAL.AssemblyInfoInputs.cache
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.DAL\obj\Debug\net8.0\Lab4.DAL.AssemblyInfo.cs
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.DAL\obj\Debug\net8.0\Lab4.DAL.csproj.CoreCompileInputs.cache
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.DAL\obj\Debug\net8.0\Lab4.DAL.sourcelink.json
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.DAL\obj\Debug\net8.0\Lab4.DAL.dll
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.DAL\obj\Debug\net8.0\refint\Lab4.DAL.dll
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.DAL\obj\Debug\net8.0\Lab4.DAL.pdb
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.DAL\obj\Debug\net8.0\ref\Lab4.DAL.dll

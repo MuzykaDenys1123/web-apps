@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4945694C-B9A9-4585-8AB6-5C0CEB8FB719}|Lab3.API.csproj|c:\\users\\tangl\\source\\repos\\web-apps\\lab3\\lab3.api\\lab3.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4945694C-B9A9-4585-8AB6-5C0CEB8FB719}|Lab3.API.csproj|solutionrelative:lab3.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4945694C-B9A9-4585-8AB6-5C0CEB8FB719}|Lab3.API.csproj|c:\\users\\tangl\\source\\repos\\web-apps\\lab3\\lab3.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4945694C-B9A9-4585-8AB6-5C0CEB8FB719}|Lab3.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -102,11 +106,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab3.API",
+              "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.API\\Lab3.API.csproj",
+              "RelativeDocumentMoniker": "Lab3.API.csproj",
+              "ToolTip": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.API\\Lab3.API.csproj",
+              "RelativeToolTip": "Lab3.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T21:16:05.789Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -114,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.API\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -127,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -135,12 +152,11 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAEAAAAAAAAAAAAowAkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-08T21:04:46.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T21:04:46.83Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -148,12 +164,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAuwCYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:59:48.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:59:48.397Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CommentController.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.API\\Controllers\\CommentController.cs",
               "RelativeDocumentMoniker": "Controllers\\CommentController.cs",
@@ -161,12 +176,11 @@
               "RelativeToolTip": "Controllers\\CommentController.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAowCMAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:59:59.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:59:59.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PostController.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.API\\Controllers\\PostController.cs",
               "RelativeDocumentMoniker": "Controllers\\PostController.cs",
@@ -174,12 +188,11 @@
               "RelativeToolTip": "Controllers\\PostController.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAcwDgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:54:33.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:54:33.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PostService.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.BLL\\Services\\PostService.cs",
               "RelativeDocumentMoniker": "..\\Lab3.BLL\\Services\\PostService.cs",
@@ -187,12 +200,11 @@
               "RelativeToolTip": "..\\Lab3.BLL\\Services\\PostService.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAowCYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:47:17.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:47:17.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CommentService.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.BLL\\Services\\CommentService.cs",
               "RelativeDocumentMoniker": "..\\Lab3.BLL\\Services\\CommentService.cs",
@@ -200,12 +212,11 @@
               "RelativeToolTip": "..\\Lab3.BLL\\Services\\CommentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:40:07.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:40:07.498Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.DAL\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "..\\Lab3.DAL\\Repositories\\GenericRepository.cs",
@@ -213,12 +224,11 @@
               "RelativeToolTip": "..\\Lab3.DAL\\Repositories\\GenericRepository.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAiwC4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:25:46.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:25:46.175Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CommentDTO.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.BLL\\DTOs\\Comments\\CommentDTO.cs",
               "RelativeDocumentMoniker": "..\\Lab3.BLL\\DTOs\\Comments\\CommentDTO.cs",
@@ -226,12 +236,11 @@
               "RelativeToolTip": "..\\Lab3.BLL\\DTOs\\Comments\\CommentDTO.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:37:33.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:37:33.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IPostService.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.BLL\\Services\\Abstractions\\IPostService.cs",
               "RelativeDocumentMoniker": "..\\Lab3.BLL\\Services\\Abstractions\\IPostService.cs",
@@ -239,12 +248,11 @@
               "RelativeToolTip": "..\\Lab3.BLL\\Services\\Abstractions\\IPostService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:33:55.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:33:55.057Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ICommentService.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.BLL\\Services\\Abstractions\\ICommentService.cs",
               "RelativeDocumentMoniker": "..\\Lab3.BLL\\Services\\Abstractions\\ICommentService.cs",
@@ -252,12 +260,11 @@
               "RelativeToolTip": "..\\Lab3.BLL\\Services\\Abstractions\\ICommentService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:34:04.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:34:04.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.DAL\\Entities\\Post.cs",
               "RelativeDocumentMoniker": "..\\Lab3.DAL\\Entities\\Post.cs",
@@ -265,12 +272,11 @@
               "RelativeToolTip": "..\\Lab3.DAL\\Entities\\Post.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:13:40.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:13:40.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.DAL\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "..\\Lab3.DAL\\Repositories\\IRepository.cs",
@@ -278,12 +284,11 @@
               "RelativeToolTip": "..\\Lab3.DAL\\Repositories\\IRepository.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAA7wAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:23:52.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:23:52.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "CommentRepository.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.DAL\\Repositories\\CommentRepository.cs",
               "RelativeDocumentMoniker": "..\\Lab3.DAL\\Repositories\\CommentRepository.cs",
@@ -291,12 +296,11 @@
               "RelativeToolTip": "..\\Lab3.DAL\\Repositories\\CommentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:42:51.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:42:51.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ICommentRepository.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.DAL\\Repositories\\ICommentRepository.cs",
               "RelativeDocumentMoniker": "..\\Lab3.DAL\\Repositories\\ICommentRepository.cs",
@@ -304,12 +308,11 @@
               "RelativeToolTip": "..\\Lab3.DAL\\Repositories\\ICommentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:41:00.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:41:00.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.DAL\\Entities\\Comment.cs",
               "RelativeDocumentMoniker": "..\\Lab3.DAL\\Entities\\Comment.cs",
@@ -317,12 +320,11 @@
               "RelativeToolTip": "..\\Lab3.DAL\\Entities\\Comment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:13:48.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:13:48.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "PostRepository.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.DAL\\Repositories\\PostRepository.cs",
               "RelativeDocumentMoniker": "..\\Lab3.DAL\\Repositories\\PostRepository.cs",
@@ -330,12 +332,11 @@
               "RelativeToolTip": "..\\Lab3.DAL\\Repositories\\PostRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:42:10.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:42:10.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "IPostRepository.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.DAL\\Repositories\\IPostRepository.cs",
               "RelativeDocumentMoniker": "..\\Lab3.DAL\\Repositories\\IPostRepository.cs",
@@ -343,12 +344,11 @@
               "RelativeToolTip": "..\\Lab3.DAL\\Repositories\\IPostRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:41:41.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:41:41.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "PostDTO.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.BLL\\DTOs\\Posts\\PostDTO.cs",
               "RelativeDocumentMoniker": "..\\Lab3.BLL\\DTOs\\Posts\\PostDTO.cs",
@@ -356,12 +356,11 @@
               "RelativeToolTip": "..\\Lab3.BLL\\DTOs\\Posts\\PostDTO.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAkwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:38:16.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:38:16.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "UpdatePostDTO.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.BLL\\DTOs\\Posts\\UpdatePostDTO.cs",
               "RelativeDocumentMoniker": "..\\Lab3.BLL\\DTOs\\Posts\\UpdatePostDTO.cs",
@@ -369,12 +368,11 @@
               "RelativeToolTip": "..\\Lab3.BLL\\DTOs\\Posts\\UpdatePostDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:35:50.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:35:50.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "CreatePostDTO.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.BLL\\DTOs\\Posts\\CreatePostDTO.cs",
               "RelativeDocumentMoniker": "..\\Lab3.BLL\\DTOs\\Posts\\CreatePostDTO.cs",
@@ -382,12 +380,11 @@
               "RelativeToolTip": "..\\Lab3.BLL\\DTOs\\Posts\\CreatePostDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:35:41.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:35:41.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "CreateCommentDTO.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.BLL\\DTOs\\Comments\\CreateCommentDTO.cs",
               "RelativeDocumentMoniker": "..\\Lab3.BLL\\DTOs\\Comments\\CreateCommentDTO.cs",
@@ -395,12 +392,11 @@
               "RelativeToolTip": "..\\Lab3.BLL\\DTOs\\Comments\\CreateCommentDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:34:30.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:34:30.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "UpdateCommentDTO.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.BLL\\DTOs\\Comments\\UpdateCommentDTO.cs",
               "RelativeDocumentMoniker": "..\\Lab3.BLL\\DTOs\\Comments\\UpdateCommentDTO.cs",
@@ -408,12 +404,11 @@
               "RelativeToolTip": "..\\Lab3.BLL\\DTOs\\Comments\\UpdateCommentDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:34:41.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:34:41.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "DbEntity.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.DAL\\Entities\\DbEntity.cs",
               "RelativeDocumentMoniker": "..\\Lab3.DAL\\Entities\\DbEntity.cs",
@@ -421,12 +416,11 @@
               "RelativeToolTip": "..\\Lab3.DAL\\Entities\\DbEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:29:38.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:29:38.191Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "ProgrammingBlogContext.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.DAL\\Context\\ProgrammingBlogContext.cs",
               "RelativeDocumentMoniker": "..\\Lab3.DAL\\Context\\ProgrammingBlogContext.cs",
@@ -434,12 +428,11 @@
               "RelativeToolTip": "..\\Lab3.DAL\\Context\\ProgrammingBlogContext.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAywA8AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:20:56.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:20:56.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "PostTypeEnum.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.DAL\\Enums\\PostTypeEnum.cs",
               "RelativeDocumentMoniker": "..\\Lab3.DAL\\Enums\\PostTypeEnum.cs",
@@ -447,12 +440,11 @@
               "RelativeToolTip": "..\\Lab3.DAL\\Enums\\PostTypeEnum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:18:14.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:18:14.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "CommentConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.DAL\\Configurations\\CommentConfiguration.cs",
               "RelativeDocumentMoniker": "..\\Lab3.DAL\\Configurations\\CommentConfiguration.cs",
@@ -460,12 +452,11 @@
               "RelativeToolTip": "..\\Lab3.DAL\\Configurations\\CommentConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:15:55.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:15:55.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "PostConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.DAL\\Configurations\\PostConfiguration.cs",
               "RelativeDocumentMoniker": "..\\Lab3.DAL\\Configurations\\PostConfiguration.cs",
@@ -473,13 +464,12 @@
               "RelativeToolTip": "..\\Lab3.DAL\\Configurations\\PostConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:15:46.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T20:15:46.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Lab3.DAL",
+              "DocumentIndex": 29,
+              "Title": "Lab3.DAL.csproj",
               "DocumentMoniker": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.DAL\\Lab3.DAL.csproj",
               "RelativeDocumentMoniker": "..\\Lab3.DAL\\Lab3.DAL.csproj",
               "ToolTip": "C:\\Users\\tangl\\source\\repos\\web-apps\\Lab3\\Lab3.DAL\\Lab3.DAL.csproj",

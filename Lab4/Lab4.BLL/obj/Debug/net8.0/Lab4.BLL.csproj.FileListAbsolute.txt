@@ -1,0 +1,16 @@
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.BLL\bin\Debug\net8.0\Lab4.BLL.deps.json
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.BLL\bin\Debug\net8.0\Lab4.BLL.dll
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.BLL\bin\Debug\net8.0\Lab4.BLL.pdb
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.BLL\bin\Debug\net8.0\Lab4.DAL.dll
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.BLL\bin\Debug\net8.0\Lab4.DAL.pdb
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.BLL\obj\Debug\net8.0\Lab4.BLL.csproj.AssemblyReference.cache
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.BLL\obj\Debug\net8.0\Lab4.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.BLL\obj\Debug\net8.0\Lab4.BLL.AssemblyInfoInputs.cache
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.BLL\obj\Debug\net8.0\Lab4.BLL.AssemblyInfo.cs
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.BLL\obj\Debug\net8.0\Lab4.BLL.csproj.CoreCompileInputs.cache
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.BLL\obj\Debug\net8.0\Lab4.BLL.sourcelink.json
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.BLL\obj\Debug\net8.0\Lab4.BLL.csproj.Up2Date
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.BLL\obj\Debug\net8.0\Lab4.BLL.dll
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.BLL\obj\Debug\net8.0\refint\Lab4.BLL.dll
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.BLL\obj\Debug\net8.0\Lab4.BLL.pdb
+C:\Users\tangl\source\repos\web-apps\Lab4\Lab4.BLL\obj\Debug\net8.0\ref\Lab4.BLL.dll
