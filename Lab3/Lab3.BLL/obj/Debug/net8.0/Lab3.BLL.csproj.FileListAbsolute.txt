@@ -13,3 +13,4 @@ C:\Users\tangl\source\repos\web-apps\Lab3\Lab3.BLL\obj\Debug\net8.0\Lab3.BLL.dll
 C:\Users\tangl\source\repos\web-apps\Lab3\Lab3.BLL\obj\Debug\net8.0\refint\Lab3.BLL.dll
 C:\Users\tangl\source\repos\web-apps\Lab3\Lab3.BLL\obj\Debug\net8.0\Lab3.BLL.pdb
 C:\Users\tangl\source\repos\web-apps\Lab3\Lab3.BLL\obj\Debug\net8.0\ref\Lab3.BLL.dll
+C:\Users\tangl\source\repos\web-apps\Lab3\Lab3.BLL\obj\Debug\net8.0\Lab3.BLL.sourcelink.json

@@ -10,3 +10,4 @@ C:\Users\tangl\source\repos\web-apps\Lab3\Lab3.DAL\obj\Debug\net8.0\Lab3.DAL.dll
 C:\Users\tangl\source\repos\web-apps\Lab3\Lab3.DAL\obj\Debug\net8.0\refint\Lab3.DAL.dll
 C:\Users\tangl\source\repos\web-apps\Lab3\Lab3.DAL\obj\Debug\net8.0\Lab3.DAL.pdb
 C:\Users\tangl\source\repos\web-apps\Lab3\Lab3.DAL\obj\Debug\net8.0\ref\Lab3.DAL.dll
+C:\Users\tangl\source\repos\web-apps\Lab3\Lab3.DAL\obj\Debug\net8.0\Lab3.DAL.sourcelink.json
